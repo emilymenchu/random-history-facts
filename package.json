@@ -4,9 +4,17 @@
   "description": "Get random historical facts in the terminal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "phoenix": "rm -f package-lock.json && rm -rf ./node_modules && npm i --no-fund --no-audit"
   },
   "keywords": [],
   "author": "Emily Menchú <menchu.lucila@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "random-history-facts": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
