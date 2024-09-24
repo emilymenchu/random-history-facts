@@ -11,10 +11,11 @@
   "author": "Emily Menchú <menchu.lucila@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-history-facts": "./bin/global.js"
+    "history-fact": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
-    "g": "^2.0.1"
+    "g": "^2.0.1",
+    "lolcatjs": "^2.4.3"
   }
 }
