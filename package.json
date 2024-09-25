@@ -16,6 +16,7 @@
   "preferGlobal": true,
   "dependencies": {
     "g": "^2.0.1",
-    "lolcatjs": "^2.4.3"
+    "lolcatjs": "^2.4.3",
+    "random-history-facts": "^1.0.0"
   }
 }
