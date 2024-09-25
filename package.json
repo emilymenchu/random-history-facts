@@ -1,6 +1,6 @@
 {
   "name": "random-history-facts",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Get random historical facts in the terminal",
   "main": "index.js",
   "scripts": {
