@@ -1,6 +1,8 @@
 # random-history-facts
 Get cute ASCII animals telling you random historical facts in the terminal.
 
+![imagen de funcionamiento](https://i.imgur.com/nY4Adgs.png)
+
 ## Install
 Use the node package manager (npm).
 ```bash
