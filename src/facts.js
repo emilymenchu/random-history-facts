@@ -38,7 +38,27 @@ const historicalFacts = [
     `Thomas Edison was afraid of the dark, even though he is famous for inventing the lightbulb.`,
     `King Tut’s parents were brother and sister. This is believed to have contributed to his early death due to genetic disorders.`,
     `The Leaning Tower of Pisa has been leaning for over 800 years, and it took 177 years to build.`,
-    `Charlie Chaplin once entered a Chaplin lookalike contest and lost. He didn’t even make the finals!`
+    `Charlie Chaplin once entered a Chaplin lookalike contest and lost. He didn’t even make the finals!`,
+    "In 1939, a group of scientists invented a new type of rubber that could withstand extreme temperatures. They called it 'Buna' and it was used in tires during WWII.",
+    "The Great Wall of China is not a single wall but a series of walls and fortifications built over several dynasties, totaling more than 13,000 miles in length.",
+    "In the 17th century, tulips became so valuable in the Netherlands that a single bulb could sell for more than a house, leading to 'Tulip Mania.'",
+    "In 1975, a man named Paul McCartney was briefly detained in Japan for carrying marijuana; he was released and later apologized for his actions.",
+    "The first known instance of a vending machine was in ancient Greece, where it dispensed holy water in exchange for coins.",
+    "In 1825, the first public railway was opened in England, and it was powered by a locomotive named 'Locomotion No. 1.'",
+    "The longest-running play in the world, 'The Mousetrap' by Agatha Christie, has been performed continuously since 1952 in London.",
+    "In ancient Egypt, servants were smeared with honey to attract flies away from the pharaoh.",
+    "In 1847, the first medical school for women in the U.S. was founded at the New England Female Medical College.",
+    "In 1883, the eruption of Krakatoa was so powerful that it was heard 3,000 miles away, and it significantly affected global temperatures for years.",
+    "The first known use of the word 'nerd' was in Dr. Seuss's 1950 book 'If I Ran the Zoo.'",
+    "In 1969, the first human to walk on the Moon, Neil Armstrong, said, 'That's one small step for man, one giant leap for mankind.'",
+    "The first computer programmer was Ada Lovelace, who wrote algorithms for Charles Babbage's early mechanical general-purpose computer in the 1840s.",
+    "During World War II, the U.S. military developed a 'ghost army' of artists and designers to create inflatable tanks and sound effects to deceive the enemy.",
+    "In 1927, a dog named 'Toto' from 'The Wizard of Oz' was valued at $125,000 by its owner, making it one of the most valuable pets at the time.",
+    "The first known contraceptive method was using a mixture of honey and crocodile dung in ancient Egypt.",
+    "In the 1800s, some doctors believed that smoking was beneficial for health, leading to widespread cigarette use.",
+    "The first known video game, 'Tennis for Two,' was created in 1958 on an oscilloscope by physicist William Higinbotham.",
+    "In ancient Rome, it was common for wealthy citizens to keep pet monkeys, which were often dressed in clothing.",
+    "In 1967, the first-ever heart transplant was performed in South Africa by Dr. Christiaan Barnard, marking a significant milestone in medical history."
 ];
 
 module.exports = { historicalFacts };
